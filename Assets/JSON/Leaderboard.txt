@@ -1,0 +1,36 @@
+{
+    "entries": [
+        {
+            "userName": "Dima",
+            "record": 18
+        },
+        {
+            "userName": "Oleg",
+            "record": 14
+        },
+	    {
+            "userName": "Petr",
+            "record": 20
+        },
+	    {
+            "userName": "Lisa",
+            "record": 18
+        },
+	    {
+            "userName": "Roman",
+            "record": 6
+        },
+	    {
+            "userName": "Andrey",
+            "record": 4
+        },
+	    {
+            "userName": "Tapok",
+            "record": 2
+        },
+	    {
+            "userName": "xX_DarkUltraLordOfDeath_Xx",
+            "record": 9999
+        }
+    ]
+}
